@@ -1,0 +1,30 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item android:id="@+id/novo"
+        android:title="Novo"
+        android:icon="@mipmap/ic_classmate"
+        app:showAsAction="always"
+        />
+    <item android:id="@+id/mapa"
+        android:title="Mapa"
+        android:icon="@mipmap/ic_classmate"
+        app:showAsAction="always"
+        />
+    <item android:id="@+id/sincronizar"
+        android:title="Sincronizar"
+        android:icon="@mipmap/ic_classmate"
+        app:showAsAction="always"
+        />
+    <item android:id="@+id/baixar_provas"
+        android:title="Baixar Provas"
+        android:icon="@mipmap/ic_classmate"
+        app:showAsAction="always"
+        />
+
+    <item android:id="@+id/preferencias"
+        android:title="Preferências"
+        android:icon="@mipmap/ic_classmate"
+        app:showAsAction="always"
+        />
+</menu>
